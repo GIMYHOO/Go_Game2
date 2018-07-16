@@ -14,7 +14,10 @@ class GO_GAME_API ATitleController : public APlayerController
 {
 	GENERATED_BODY()
 	
-	
+//public:
+	//virtual void BeginPlay() override;
+
+	//	class UTitleWidget* TitleWidget;
 	
 	
 };
